@@ -1,0 +1,2 @@
+django>=1.5.1
+https://github.com/django-debug-toolbar/django-debug-toolbar/archive/6a8526a93b60ebae214dbe0d4cbf172c311802b9.zip

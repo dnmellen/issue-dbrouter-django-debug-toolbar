@@ -5,7 +5,8 @@ How to reproduce it
 -----------------------------
 
 .. code-block :: bash
-    git clone <>
+
+    git clone git@github.com:dnmellen/issue-dbrouter-django-debug-toolbar.git
     cd issue-dbrouter-django-debug-toolbar
     mkvirtualenv issue
 
